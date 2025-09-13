@@ -1,4 +1,5 @@
 📊 Bank Loan Data Analysis Project
+
 🔹 Project Overview
 
 The Bank Loan Data Analysis Project focuses on building an interactive and comprehensive reporting system to monitor and assess a bank’s lending activities. The project leverages data visualization and analysis techniques to track loan performance, identify trends, and support data-driven decision-making in lending strategies.
